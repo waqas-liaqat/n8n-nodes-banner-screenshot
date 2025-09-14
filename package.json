@@ -1,0 +1,20 @@
+{
+  "name": "n8n-nodes-banner-screenshot",
+  "version": "1.0.0",
+  "description": "n8n node to send HTML to API and return a 1080x1080 banner screenshot",
+  "keywords": ["n8n-community-node", "screenshot", "banner"],
+  "license": "MIT",
+  "author": "Your Name",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "n8n-node-dev build"
+  },
+  "dependencies": {
+    "axios": "^1.7.3"
+  },
+  "devDependencies": {
+    "n8n-node-dev": "^0.25.0",
+    "typescript": "^5.5.4"
+  }
+}
