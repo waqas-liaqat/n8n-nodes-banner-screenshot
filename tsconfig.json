@@ -8,5 +8,9 @@
     "strict": true,
     "esModuleInterop": true
   },
-  "include": ["nodes/**/*.ts", "credentials/**/*.ts"]
+  "include": [
+    "index.ts",
+    "nodes/**/*.ts",
+    "credentials/**/*.ts"
+  ]
 }
