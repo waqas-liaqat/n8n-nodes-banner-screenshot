@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-banner-screenshot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "n8n node to send HTML to API and return a 1080x1080 banner screenshot",
   "keywords": [
     "n8n-community-node",
